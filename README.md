@@ -1,0 +1,10 @@
+| 应用名称     | 是否翻墙 | 是否收费 | 支持自定义key | 特色功能   | URL                                |
+| ------------ | -------- | -------- | -------------- | ---------- | ---------------------------------- |
+| freegpt.one  | 是       | 免费     | 否             | 不支持     | https://freegpt.one/              |
+| chat.paoying.net | 否    | 付费     | 否             | 不支持     | https://chat.paoying.net/         |
+| freegpt.cc   | 否       | 免费     | 支持           | 不支持     | https://freegpt.cc/               |
+| chat.tgbot.co | 否       | 免费     | 否             | 不支持     | https://chat.tgbot.co/            |
+| aitools.run  | 否       | 免费     | 是             | 多种定制场景 | https://aitools.run/              |
+| chatpdf.com  | 否       | 免费     | 不支持         | PDF解析    | https://chatpdf.com/              |
+| ai.yiios.com | 需要翻墙 | 收费     | 支持           | 变换角色   | https://ai.yiios.com/            |
+| openai.tube  | 否       | 免费     | 支持           | 不支持     | https://www.openai.tube/         |
