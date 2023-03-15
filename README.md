@@ -8,3 +8,4 @@
 | chatpdf.com  | 否       | 免费     | 不支持         | PDF解析    | https://chatpdf.com/              |
 | ai.yiios.com | 需要翻墙 | 收费     | 支持           | 变换角色   | https://ai.yiios.com/            |
 | openai.tube  | 否       | 免费     | 支持           | 不支持     | https://www.openai.tube/         |
+| chat.okis.dev  | 否       | 免费     | 支持           | 不支持     | https://chat.okis.dev     |
